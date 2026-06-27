@@ -9,6 +9,7 @@ Doubles the in-menu track speed limit to 120.
 
 ## Touchable Medals
 
-Adds cursor interaction to track medals.
+Adds cursor interaction to track medals.\
+**This feature is now included in the base game.**
 
 > <img width="200" height="155" alt="Plugin Demo" src="https://github.com/user-attachments/assets/0440db1f-53a2-4ccc-b8f8-a4fabc786a85" />
